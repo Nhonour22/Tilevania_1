@@ -8963,7 +8963,7 @@ GameObject:
   - component: {fileID: 1450802057}
   - component: {fileID: 1450802056}
   - component: {fileID: 1450802055}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Platrforms TileMap
   m_TagString: Untagged
   m_Icon: {fileID: 0}
