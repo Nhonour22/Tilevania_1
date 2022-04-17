@@ -48552,7 +48552,7 @@ GameObject:
   - component: {fileID: 892620076}
   m_Layer: 11
   m_Name: Monica
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -48914,11 +48914,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 729aad4491e915a41bda2b8325cf757a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!4 &1285025392 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 2412953375953845486, guid: 73057935e38556e49a0cfef81c8d7f71, type: 3}
-  m_PrefabInstance: {fileID: 476368604303156092}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1428350978
 GameObject:
   m_ObjectHideFlags: 0
@@ -60890,26 +60885,6 @@ PrefabInstance:
     - target: {fileID: 476368604758138983, guid: 73057935e38556e49a0cfef81c8d7f71, type: 3}
       propertyPath: m_Name
       value: Bill Clinton (Player)
-      objectReference: {fileID: 0}
-    - target: {fileID: 4241870917022864713, guid: 73057935e38556e49a0cfef81c8d7f71, type: 3}
-      propertyPath: m_Material
-      value: 
-      objectReference: {fileID: 6200000, guid: 0a9449b0081651e4dbcd5962f703ffe2, type: 2}
-    - target: {fileID: 4308808615084996902, guid: 73057935e38556e49a0cfef81c8d7f71, type: 3}
-      propertyPath: gun
-      value: 
-      objectReference: {fileID: 1285025392}
-    - target: {fileID: 4308808615084996902, guid: 73057935e38556e49a0cfef81c8d7f71, type: 3}
-      propertyPath: bullet
-      value: 
-      objectReference: {fileID: 6334501716281365838, guid: 050dc3d4799323a45b95f287dd558fd7, type: 3}
-    - target: {fileID: 4308808615084996902, guid: 73057935e38556e49a0cfef81c8d7f71, type: 3}
-      propertyPath: deathkick.x
-      value: 20
-      objectReference: {fileID: 0}
-    - target: {fileID: 4308808615084996902, guid: 73057935e38556e49a0cfef81c8d7f71, type: 3}
-      propertyPath: deathkick.y
-      value: 20
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 73057935e38556e49a0cfef81c8d7f71, type: 3}
