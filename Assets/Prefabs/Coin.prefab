@@ -233,3 +233,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   coinPickupSFX: {fileID: 8300000, guid: 951f3092a9a86cd4087d52e43ab0d0c2, type: 3}
+  pointsForCoinPickup: 100
